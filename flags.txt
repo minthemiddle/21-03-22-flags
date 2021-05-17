@@ -1,0 +1,1285 @@
+id: 8AEB8F9D-29A5-4BB0-BBBB-6867BD52E481
+back-text: Poland
+front-resources: pl.png
+level: 1
+
+id: 742BA2F7-4B64-45D0-9947-727316A16CE9
+front-text: 
+back-text: Portugal
+front-resources: pt.png
+level: 1
+
+id: B4E2D9AA-71CB-4E1C-9747-102B73239201
+front-text: 
+back-text: Qatar
+front-resources: qa.png
+level: 1
+
+id: DCE3F9E7-43A6-4DA0-9D87-090AE5EFD6C0
+front-text: 
+back-text: Romania
+front-resources: ro.png
+level: 1
+
+id: C69D2756-CB6D-4075-BB4C-F4D33F7AB266
+front-text: 
+back-text: Russia
+front-resources: ru.png
+level: 1
+
+id: E21B05B6-3C58-4A93-B542-4F03160DDC9C
+front-text: 
+back-text: Rwanda
+front-resources: rw.png
+level: 1
+
+id: FC6DEFC4-EFAF-48BF-B84F-0A49C7D9E192
+front-text: 
+back-text: Saint Kitts and Nevis
+front-resources: kn.png
+level: 1
+
+id: 952CF180-0F54-4A4E-95DC-73A3D55020DD
+front-text: 
+back-text: Saint Lucia
+front-resources: lc.png
+level: 1
+
+id: 8AB95176-8F6B-4520-9D39-D96F0B0226B7
+front-text: 
+back-text: Saint Vincent and the Grenadines
+front-resources: vc.png
+level: 1
+
+id: 742794AA-9568-42A0-B0CD-51BABB700152
+front-text: 
+back-text: Samoa
+front-resources: ws.png
+level: 1
+
+id: 30E62462-30C3-452F-950E-78613B0FCB30
+front-text: 
+back-text: San Marino
+front-resources: sm.png
+level: 1
+
+id: ABA43C3D-D883-4E9E-8AF3-DD42D2A28945
+back-text: São Tomé and Príncipe
+front-resources: st.png
+tags: africa
+level: 1
+
+id: 6018B385-1FA1-4DEA-953C-7D187184E914
+front-text: 
+back-text: Saudi Arabia
+front-resources: sa.png
+level: 1
+
+id: C3E301D5-3F88-40B4-AB28-08682674BBF8
+front-text: 
+back-text: Senegal
+front-resources: sn.png
+level: 1
+
+id: 5DBD5650-75DA-4908-83B8-7909BD2A92FC
+front-text: 
+back-text: Serbia
+front-resources: rs.png
+level: 1
+
+id: 8274C4A2-D3D9-42C4-946F-FCADE59AFC83
+front-text: 
+back-text: Seychelles
+front-resources: sc.png
+level: 1
+
+id: F7B846A8-38C0-4C2D-9ABD-02292EE1E5FD
+front-text: 
+back-text: Singapore
+front-resources: sg.png
+level: 1
+
+id: 5D401AE6-BC7F-43F2-97AC-8618E45D7FAC
+front-text: 
+back-text: Slovakia
+front-resources: sk.png
+level: 1
+
+id: C702EECD-B512-4B3B-81AD-9E68A28B6283
+front-text: 
+back-text: Slovenia
+front-resources: si.png
+level: 1
+
+id: EE3A649A-FA19-4552-9678-D232FC55B56F
+front-text: 
+back-text: Solomon Islands
+front-resources: sb.png
+level: 1
+
+id: ED17E73E-331A-4DB7-88D2-6EAB7A2D41EA
+front-text: 
+back-text: South Africa
+front-resources: za.png
+level: 1
+
+id: DA9B0860-0D25-4A5B-A2CB-0620E0BF0594
+front-text: 
+back-text: South Sudan
+front-resources: ss.png
+level: 1
+
+id: EE3B0D59-7FBB-4B25-AAC1-6F466DADA5D7
+front-text: 
+back-text: Spain
+front-resources: es.png
+level: 1
+
+id: 9CBD76FF-42E5-420F-A8D0-9DEC0644875B
+front-text: 
+back-text: Sri Lanka
+front-resources: lk.png
+level: 1
+
+id: 0DC863DA-6D77-4DE1-81EF-8C2C3EA05D1F
+front-text: 
+back-text: Sudan
+front-resources: sd.png
+level: 1
+
+id: F147A596-710C-4528-A78F-50AEAF9F8848
+front-text: 
+back-text: Suriname
+front-resources: sr.png
+level: 1
+
+id: D05FF63D-2960-407F-BD9D-2D67349CC0FE
+front-text: 
+back-text: Sweden
+front-resources: se.png
+level: 1
+
+id: C316423E-499A-4218-BC7C-100DE43F876D
+front-text: 
+back-text: Switzerland
+front-resources: ch.png
+level: 1
+
+id: F4A0B960-16B8-4E8D-AF14-C4AF7F864AB2
+front-text: 
+back-text: Syria
+front-resources: sy.png
+level: 1
+
+id: 87C492F2-9B79-4889-8CDE-7205342AAD21
+front-text: 
+back-text: Tajikistan
+front-resources: tj.png
+level: 1
+
+id: 5664055F-6923-4712-9BB1-4C1C19636DE7
+front-text: 
+back-text: Tanzania
+front-resources: tz.png
+level: 1
+
+id: 2E6C7D13-721C-4412-87B3-4672CFD45772
+front-text: 
+back-text: Thailand
+front-resources: th.png
+level: 1
+
+id: 4C8240FE-FA05-48CA-A41C-97D2C725EB94
+front-text: 
+back-text: Togo
+front-resources: tg.png
+level: 1
+
+id: 02B407F9-BCA8-495F-8991-340CC5210E96
+front-text: 
+back-text: Tonga
+front-resources: to.png
+level: 1
+
+id: DD091601-644C-4D7F-B4CD-E149D7D92412
+front-text: 
+back-text: Trinidad and Tobago
+front-resources: tt.png
+level: 1
+
+id: 561CF3FF-2B0D-4AAD-BAF0-A087645241BA
+front-text: 
+back-text: Tunisia
+front-resources: tn.png
+level: 1
+
+id: ED09D337-172A-4C4D-9ED7-AFCEEE83A9DD
+front-text: 
+back-text: Turkey
+front-resources: tr.png
+level: 1
+
+id: 56250CB7-74EA-4983-8F08-16B2EE951B2C
+front-text: 
+back-text: Turkmenistan
+front-resources: tm.png
+level: 1
+
+id: D22F89BB-23CB-429F-AB90-0497A8692055
+front-text: 
+back-text: Tuvalu
+front-resources: tv.png
+level: 1
+
+id: 12B43F2A-BD94-4B27-80D9-95B183CAAAF5
+front-text: 
+back-text: Uganda
+front-resources: ug.png
+level: 1
+
+id: F6B75A78-65F9-4BC3-98F2-F634DBD4E508
+front-text: 
+back-text: Ukraine
+front-resources: ua.png
+level: 1
+
+id: C707D5A7-5CD9-48D1-96DC-05599B7A11FA
+front-text: 
+back-text: United Arab Emirates
+front-resources: ae.png
+level: 1
+
+id: CBDC5D83-CECB-469B-8A95-CF32AA5AC1C1
+front-text: 
+back-text: United Kingdom
+front-resources: gb.png
+level: 1
+
+id: FDA7DA25-5FCF-4489-A904-8F4F04CA3FFF
+front-text: 
+back-text: United States
+front-resources: us.png
+level: 1
+
+id: 726A59BB-D2FB-4C14-A79E-D6D6ABD0A307
+front-text: 
+back-text: Uruguay
+front-resources: uy.png
+level: 1
+
+id: 90F76525-41F5-4AB6-9F19-2C7A34E1A8D6
+front-text: 
+back-text: Uzbekistan
+front-resources: uz.png
+level: 1
+
+id: 1DA30F2A-2F17-43A5-B3DB-F6EC7148A22E
+front-text: 
+back-text: Vanuatu
+front-resources: vu.png
+level: 1
+
+id: 3DF8691D-0DEC-4017-AC43-9024F79227F8
+front-text: 
+back-text: Vatican City
+front-resources: va.png
+level: 1
+
+id: C2E1DB12-0277-4E89-BE0F-4518CA009B65
+front-text: 
+back-text: Venezuela
+front-resources: ve.png
+level: 1
+
+id: 5485E684-B7BC-4269-86D0-B034B6B21E6E
+front-text: 
+back-text: Vietnam
+front-resources: vn.png
+level: 1
+
+id: ACF4C5FF-E3DA-48A8-A928-71E48BDCC65E
+front-text: 
+back-text: Yemen
+front-resources: ye.png
+level: 1
+
+id: 79285AFB-118A-4018-909B-4C6400A50E23
+front-text: 
+back-text: Zambia
+front-resources: zm.png
+level: 1
+
+id: 01448AA6-1439-4ACF-984B-659550B62B78
+front-text: 
+back-text: Oman
+front-resources: om.png
+level: 1
+
+id: F1035178-0784-4D51-979F-C941DEC15A05
+front-text: 
+back-text: Pakistan
+front-resources: pk.png
+level: 1
+
+id: 026F5503-7D17-43AB-9654-6F826F4F8196
+front-text: 
+back-text: Palau
+front-resources: pw.png
+level: 1
+
+id: F4D4D931-8888-4CDA-81A7-8C623B932C01
+front-text: 
+back-text: Palestine
+front-resources: ps.png
+level: 1
+
+id: BFA62256-4090-49AF-BAD7-EC931C5968EE
+back-text: Panama
+front-resources: pa.png
+level: 1
+
+id: 09963A86-303F-42BA-820B-6F257065FC73
+back-text: Papua New Guinea
+front-resources: pg.png
+level: 1
+
+id: 8ADC5A81-BE0F-4BFE-B0CE-CE64BB2CA260
+front-text: 
+back-text: Paraguay
+front-resources: py.png
+level: 1
+
+id: 0BC36C2E-F817-41F5-838D-B02076C57774
+front-text: 
+back-text: Peru
+front-resources: pe.png
+level: 1
+
+id: 64187153-907E-4539-87E4-7B619B4EDCB8
+front-text: 
+back-text: Philippines
+front-resources: ph.png
+level: 1
+
+id: 403908E4-44C0-47C8-A32D-BEABED2663C1
+front-text: 
+back-text: Namibia
+front-resources: na.png
+level: 1
+
+id: 5D6D4242-133E-44C6-9546-A022DBD34EF0
+front-text: 
+back-text: Nauru
+front-resources: nr.png
+level: 1
+
+id: 1A0457B2-9C83-439C-9FA8-B8D70139242F
+front-text: 
+back-text: The Netherlands
+front-resources: nl.png
+level: 1
+
+id: 3A162D33-4D86-4408-B6D0-675CAE69235B
+front-text: 
+back-text: New Zealand
+front-resources: nz.png
+level: 1
+
+id: 47E84420-57D3-49A2-B019-09F4E1E59ADD
+back-text: Nicaragua
+front-resources: ni.png
+level: 1
+
+id: 9E5AD0A5-D504-44EB-88AE-CF4366562844
+front-text: 
+back-text: Niger
+front-resources: ne.png
+level: 1
+
+id: 8C5D8502-76D8-40F1-A5F9-5972A91047AF
+front-text: 
+back-text: Nigeria
+front-resources: ng.png
+level: 1
+
+id: D74EFB3E-AB00-4FC6-8397-F9E79DC3C14C
+front-text: 
+back-text: Norway
+front-resources: no.png
+level: 1
+
+id: F97762C0-07F3-4866-9031-6B6F652D8DF6
+front-text: 
+back-text: Mauritius
+front-resources: mu.png
+level: 1
+
+id: 9B2C7A7E-7E0F-4A7F-9AF1-A57EEBC2353A
+front-text: 
+back-text: Micronesia
+front-resources: fm.png
+level: 1
+
+id: 65695824-436E-4BEF-BD42-1C888E2AE64D
+back-text: Moldova
+front-resources: md.png
+level: 1
+
+id: 2B669062-E707-4475-9161-03C1F660C099
+front-text: 
+back-text: Monaco
+front-resources: mc.png
+level: 1
+
+id: EA4E5A33-54A7-464F-8416-1A2C3BAAC242
+back-text: Mongolia
+front-resources: mn.png
+level: 1
+
+id: 0A8DC849-A7B5-4444-BBF3-29109593AA44
+back-text: Montenegro
+front-resources: me.png
+level: 1
+
+id: 67685803-6A24-4A9C-9A28-BBE326A209BD
+back-text: Morocco
+front-resources: ma.png
+level: 1
+
+id: AE149890-7C16-4B8D-835F-BE59E1839899
+front-text: 
+back-text: Mozambique
+front-resources: mz.png
+level: 1
+
+id: 86D9733F-B498-4411-8D9A-037D3B345BC2
+front-text: 
+back-text: Myanmar
+front-resources: mm.png
+level: 1
+
+id: 951AD037-3C83-4387-81C1-B07B603CD079
+front-text: 
+back-text: Libya
+front-resources: ly.png
+level: 1
+
+id: 36CD1849-EB64-4B09-8CF8-967999AB4A13
+front-text: 
+back-text: Liechtenstein
+front-resources: li.png
+level: 1
+
+id: 0F584A8E-2810-4ABA-A0B9-856CBEEC73E7
+front-text: 
+back-text: Lithuania
+front-resources: lt.png
+level: 1
+
+id: CE0B9C99-3E7D-4B58-878B-66788F1D7F92
+front-text: 
+back-text: Luxembourg
+front-resources: lu.png
+level: 1
+
+id: 2FB3A3BA-BB64-4689-9E33-81D752B5E031
+front-text: 
+back-text: North Macedonia
+front-resources: mk.png
+level: 1
+
+id: 99FABAE3-5534-4BB4-A05A-0B5A16162ED9
+front-text: 
+back-text: Malaysia
+front-resources: my.png
+level: 1
+
+id: 0D5EC3D7-83F6-4605-9C70-290EE32483B4
+front-text: 
+back-text: Maldives
+front-resources: mv.png
+level: 1
+
+id: 43C47477-3BE9-41A5-ACA8-55811F2FA5DE
+front-text: 
+back-text: Mali
+front-resources: ml.png
+level: 1
+
+id: C1ECBC96-4CB1-4F51-86C2-2B23843ED2C1
+front-text: 
+back-text: Malta
+front-resources: mt.png
+level: 1
+
+id: F986BB7E-DD5A-42AE-B51D-D2216B5DF8D9
+back-text: Marshall Islands
+front-resources: mh.png
+tags: oceania
+level: 1
+
+id: B94CEE2E-7498-4489-B912-BD903449A7C6
+front-text: 
+back-text: South Korea
+front-resources: kr.png
+level: 1
+
+id: E4ADCB4E-94DE-43DA-A3E9-5B2A0ADC3DC7
+front-text: 
+back-text: Kuwait
+front-resources: kw.png
+level: 1
+
+id: 82C02C4A-071A-4DA2-8B03-01DE1331E454
+back-text: Kyrgysztan
+front-resources: kg.png
+level: 1
+
+id: 2466E277-7F05-4A99-887F-1F0E34827EB8
+front-text: 
+back-text: Laos
+front-resources: la.png
+level: 1
+
+id: 01EC4E52-C5CD-44BC-B944-F0BADF71BA51
+front-text: 
+back-text: Latvia
+front-resources: lv.png
+level: 1
+
+id: 4F935649-1D34-4667-918B-618DE24D4367
+front-text: 
+back-text: Lebanon
+front-resources: lb.png
+level: 1
+
+id: B9A1AFD7-25B6-410B-84F1-F79D0C78D6CE
+front-text: 
+back-text: Lesotho
+front-resources: ls.png
+level: 1
+
+id: F7C00B4D-00D3-4FE0-9E89-4DC721B6BD7C
+front-text: 
+back-text: Liberia
+front-resources: lr.png
+level: 1
+
+id: 3989CCB6-AD74-4370-88C6-DD3D7FC20CB1
+back-text: Iraq
+front-resources: iq.png
+level: 1
+
+id: 72ED8C87-B507-45DE-8088-DAE238658E6E
+front-text: 
+back-text: Ireland
+front-resources: ie.png
+level: 1
+
+id: 4347B1EF-FD87-4AC3-B301-F306456A2417
+front-text: 
+back-text: Israel
+front-resources: il.png
+level: 1
+
+id: B5E64577-CF76-4364-A9A6-3E4AD56B6A34
+front-text: 
+back-text: Italy
+front-resources: it.png
+level: 1
+
+id: F1A3EDC7-E00A-4D6C-936F-EAE55933C0BD
+front-text: 
+back-text: Ivory Coast
+front-resources: ci.png
+level: 1
+
+id: 8D58B12C-63FC-430C-9D47-93CD8160F7B8
+front-text: 
+back-text: Jamaica
+front-resources: jm.png
+level: 1
+
+id: 39BA0C96-93B4-4C36-AF74-16EF0A282AA7
+front-text: 
+back-text: Japan
+front-resources: jp.png
+level: 1
+
+id: 1EFDFAA6-9215-423C-9994-3F984F262A2E
+front-text: 
+back-text: Jordan
+front-resources: jo.png
+level: 1
+
+id: 52F28558-C926-42CE-80E8-9E901F842F06
+front-text: 
+back-text: Kazakhstan
+front-resources: kz.png
+level: 1
+
+id: 4941B0E8-335A-466E-9E6A-2CF6F9BF9469
+back-text: Kenya
+front-resources: ke.png
+tags: africa
+level: 1
+
+id: BBCCEA4B-1B7D-4429-A3E2-711BE73AC283
+back-text: Kiribati
+front-resources: ki.png
+level: 1
+
+id: C50ACD61-AD22-48D5-8FA1-176C2027EA20
+front-text: 
+back-text: North Korea
+front-resources: kp.png
+level: 1
+
+id: 9E17685E-676D-4D01-98CA-62E47D1F2823
+front-text: 
+back-text: Mauritania
+front-resources: mr.png
+level: 1
+
+id: C1898C9C-5B02-4A6B-9F8C-E92B9267CA89
+front-text: 
+back-text: Malawi
+front-resources: mw.png
+level: 1
+
+id: DD9BE924-7107-4A81-A412-6E8066FB9191
+front-text: 
+back-text: Madagascar
+front-resources: mg.png
+level: 1
+
+id: 9EDFC5D9-7612-44AD-B27D-30505A6CAA6A
+front-text: 
+back-text: Sierra Leone
+front-resources: sl.png
+level: 1
+
+id: 228DC5AD-36A8-4FD2-8F98-AEC8CD512597
+front-text: 
+back-text: Somalia
+front-resources: so.png
+level: 1
+
+id:129f46bd-b0dd-44d0-874d-bdefbc2aa39b
+front-text:
+back-text: Somaliland
+front-resources: Somaliland.png
+level: 3
+
+id:22fa8cae-595a-4b82-9898-ba2284671a6a
+front-text:
+back-text: North Ossetia
+front-resources: North_Ossetia.png
+level: 3
+
+id:e4f183ea-7f7d-43c1-b859-848a1136c6cf
+front-text:
+back-text: Northern Cyprus
+front-resources: Northern_Cyprus.png
+level: 3
+
+id:0cf0b5d6-d176-4893-a643-c42cb9a12d1d
+front-text:
+back-text: Darfur
+front-resources: Darfur.png
+level: 3
+
+id:bdab1685-df42-466a-ae5b-efdc48cc4675
+front-text:
+back-text: Quebec
+front-resources: Quebec.png
+level: 3
+
+id:51a0b1d0-feb8-4573-806f-65235de06c21
+front-text:
+back-text: Kosovo
+front-resources: Kosovo.png
+level: 3
+
+id:4814e5e8-03a6-46df-bbaa-ed0b460beb76
+front-text:
+back-text: Crimea
+front-resources: Crimea.png
+level: 3
+
+id:a2cd906b-4cba-4737-b6ce-a935994c7f66
+front-text:
+back-text: Taiwan (Republic Of China)
+front-resources: Republic_of_China.png
+level: 3
+
+id:cf49db2f-e4ba-46f7-a95a-a230d61b9eef
+front-text:
+back-text: Kurdistan
+front-resources: Kurdistan.png
+level: 3
+
+id: 9DFEA407-75CE-4E2C-93A2-8847937B04D3
+front-text: 
+back-text: Mexico
+front-resources: mx.png
+level: 1
+
+id: 8D375C74-109D-453A-8D2A-907B98FFC365
+front-text: 
+back-text: Nepal
+front-resources: np.png
+level: 1
+
+id: 7E8F9587-67A0-4962-AFD0-E0118AB9AD78
+front-text: 
+back-text: Zimbabwe
+front-resources: zw.png
+level: 1
+
+id: 3404D10C-D1F2-451D-A84E-E2A5DD25E8CD
+front-text: 
+back-text: Ethiopia
+front-resources: et.png
+level: 1
+
+id: 6B16621B-2800-4B90-9826-A8A769D1DF7C
+back-text: Fiji
+front-resources: fj.png
+level: 1
+
+id: C684D31D-05EE-4445-98E7-711456A90BA5
+front-text: 
+back-text: Finland
+front-resources: fi.png
+level: 1
+
+id: 1A7A7521-2CC5-4469-8E7C-8278527CE914
+front-text: 
+back-text: France
+front-resources: fr.png
+level: 1
+
+id: CDC6F9D9-BBF4-4AD9-864B-8AF9322B329A
+front-text: 
+back-text: Gabon
+front-resources: ga.png
+level: 1
+
+id: 179C1130-A9DD-4205-A7F6-C52EC8240FB8
+back-text: Gambia
+front-resources: gm.png
+tags: africa
+level: 1
+
+id: B9EB10B3-17E0-4E0A-8592-BBA5A9EEAB83
+front-text: 
+back-text: Georgia
+front-resources: ge.png
+level: 1
+
+id: 2F2F03F1-B48E-4F59-A7A5-955799309B98
+front-text: 
+back-text: Germany
+front-resources: de.png
+level: 1
+
+id: 578DCA12-9C03-4BCA-AF19-96EF9628AF53
+front-text: 
+back-text: Ghana
+front-resources: gh.png
+level: 1
+
+id: 1A7417D5-6944-4EBD-BD55-C5BBA725ED64
+front-text: 
+back-text: Greece
+front-resources: gr.png
+level: 1
+
+id: 156B3B19-F484-4A19-8C68-9565B8D88012
+back-text: Grenada
+front-resources: gd.png
+level: 1
+
+id: 20B8AC03-8C31-4644-AC3E-232A562F4926
+back-text: Guatemala
+front-resources: gt.png
+level: 1
+
+id: DDCA9DF9-101F-4168-9666-C1E0803EAB50
+front-text: 
+back-text: Guinea-Bissau
+front-resources: gw.png
+level: 1
+
+id: 7074E948-3742-4F56-97A8-3C7212984C28
+front-text: 
+back-text: Guinea
+front-resources: gn.png
+level: 1
+
+id: 3A40BE11-7A75-4478-B0B7-E4FF6284AAB1
+front-text: 
+back-text: Guyana
+front-resources: gy.png
+level: 1
+
+id: 2FD4B82A-367B-4A6C-96E9-3841A7C7A9C1
+front-text: 
+back-text: Haiti
+front-resources: ht.png
+level: 1
+
+id: 96918A0A-E3F7-4964-8C95-3E5F2DCB5116
+front-text: 
+back-text: Honduras
+front-resources: hn.png
+level: 1
+
+id: E205A6E4-133F-4DBA-897E-D2289A034399
+front-text: 
+back-text: Hungary
+front-resources: hu.png
+level: 1
+
+id: FF761D50-7476-457E-A382-DF8F27D495C7
+front-text: 
+back-text: Iceland
+front-resources: is.png
+level: 1
+
+id: 517156EA-DD45-4051-ACE1-A95DE65206C9
+front-text: 
+back-text: India
+front-resources: in.png
+level: 1
+
+id: 2931A557-8F0D-46C6-9230-6CD4B9B6C593
+front-text: 
+back-text: Indonesia
+front-resources: id.png
+level: 1
+
+id: 8991F71D-D694-4BCE-9715-B9FB7999E230
+front-text: 
+back-text: Iran
+front-resources: ir.png
+level: 1
+
+id: 517156EA-DD45-4051-ACE1-A95DE65206C9
+front-text: 
+back-text: India
+front-resources: in.png
+level: 1
+
+id: 4347B1EF-FD87-4AC3-B301-F306456A2417
+front-text: 
+back-text: Israel
+front-resources: il.png
+level: 1
+
+id: B9A1AFD7-25B6-410B-84F1-F79D0C78D6CE
+front-text: 
+back-text: Lesotho
+front-resources: ls.png
+level: 1
+
+id: 56250CB7-74EA-4983-8F08-16B2EE951B2C
+front-text: 
+back-text: Turkmenistan
+front-resources: tm.png
+level: 1
+
+
+id: CDC6F9D9-BBF4-4AD9-864B-8AF9322B329A
+front-text: 
+back-text: Gabon
+front-resources: ga.png
+level: 1
+
+id: F7B846A8-38C0-4C2D-9ABD-02292EE1E5FD
+front-text: 
+back-text: Singapore
+front-resources: sg.png
+level: 1
+
+id: 99CD0EE6-5A21-4F2D-9A13-C7A782EA87D4
+front-text: 
+back-text: Timor-Leste
+front-resources: tl.png
+level: 1
+
+id: 6AEF980D-D0A8-4494-A186-07D59CDABF29
+back-text: Ecuador
+front-resources: ec.png
+level: 1
+
+id: AAA0B309-ACA8-42BE-B4CE-FEE0873C63E7
+back-text: Egypt
+front-resources: eg.png
+level: 1
+
+id: 2FE9F928-53D8-4239-A344-C3A197822B9F
+front-text: 
+back-text: Equatorial Guinea
+front-resources: gq.png
+level: 1
+
+id: 6BA6BC0F-28E8-4587-BC5B-5D893EE7AEEB
+front-text: 
+back-text: Eritrea
+front-resources: er.png
+level: 1
+
+id: B90AFD4D-CBB2-4679-9DCF-23D14830002D
+front-text: 
+back-text: Estonia
+front-resources: ee.png
+level: 1
+
+id: 9A4012D8-36E3-4059-945E-02B7CE2745B4
+front-text: 
+back-text: Eswatini
+front-resources: sz.png
+level: 1
+
+id: E21B05B6-3C58-4A93-B542-4F03160DDC9C
+front-text: 
+back-text: Rwanda
+front-resources: rw.png
+level: 1
+
+id: FC6DEFC4-EFAF-48BF-B84F-0A49C7D9E192
+front-text: 
+back-text: Saint Kitts and Nevis
+front-resources: kn.png
+level: 1
+
+id: 952CF180-0F54-4A4E-95DC-73A3D55020DD
+front-text: 
+back-text: Saint Lucia
+front-resources: lc.png
+level: 1
+
+id: 8AB95176-8F6B-4520-9D39-D96F0B0226B7
+front-text: 
+back-text: Saint Vincent and the Grenadines
+front-resources: vc.png
+level: 1
+
+id: 30E62462-30C3-452F-950E-78613B0FCB30
+front-text: 
+back-text: San Marino
+front-resources: sm.png
+level: 1
+
+id: 73C57D63-4391-4923-9764-6D175B331156
+front-text: 
+back-text: Cyprus
+front-resources: cy.png
+level: 1
+
+id: D4AB48F0-BAA9-4FA6-BAAE-ED01D9B5DCF9
+front-text: 
+back-text: Czech Republic
+front-resources: cz.png
+level: 1
+
+id: 4B934153-0747-468D-B60E-9FD05D8965DD
+front-text: 
+back-text: Denmark
+front-resources: dk.png
+level: 1
+
+id: C88FEC3B-0E21-4517-8DC0-41DDF71EC31A
+front-text: 
+back-text: Djibouti
+front-resources: dj.png
+level: 1
+
+id: 74258CEF-E8B1-4C98-AE40-49E89014B2C6
+back-text: Dominica
+front-resources: dm.png
+level: 1
+
+id: F8FBE563-0F40-4430-BBE0-FE2BF9D0A487
+back-text: Dominican republic
+front-resources: do.png
+level: 1
+
+id: E4B7A93A-33A2-4BC5-8C9F-996E7FF475F9
+front-text: 
+back-text: Costa Rica
+front-resources: cr.png
+level: 1
+
+id: C7B13A59-9911-496F-A877-DE9E8373CA8E
+front-text: 
+back-text: Croatia
+front-resources: hr.png
+level: 1
+
+id: 91429B0B-734E-4729-9A42-3FE1525A394C
+front-text: 
+back-text: Cuba
+front-resources: cu.png
+level: 1
+
+id: F797F2F9-D4E0-4460-95DD-58F4B7A35A86
+front-text: 
+back-text: The Democratic Republic of Congo
+front-resources: cd.png
+level: 1
+
+id: 7AE3FA6E-F2BE-42F5-92D7-34C2968FE6E1
+front-text: 
+back-text: The Republic of Congo
+front-resources: cg.png
+level: 1
+
+id: 2F4875FF-C955-4ACC-92E7-40E59EC26F50
+back-text: Comoros
+front-resources: km.png
+level: 1
+
+id: 7B47C44D-4852-4165-8399-C79462A3845C
+front-text: 
+back-text: Colombia
+front-resources: co.png
+level: 1
+
+id: EE0D10E2-8214-4480-8BF0-259D7C5C81A0
+front-text: 
+back-text: China
+front-resources: cn.png
+level: 1
+
+
+id: 6050CDD0-8312-4385-A3C0-ECCD39C3849B
+front-text: 
+back-text: Chad
+front-resources: td.png
+level: 1
+
+id: 63546C84-AF93-424A-B33A-93B0E34D6B48
+front-text: 
+back-text: Chile
+front-resources: cl.png
+level: 1
+
+id: 2FE9F928-53D8-4239-A344-C3A197822B9F
+front-text: 
+back-text: Equatorial Guinea
+front-resources: gq.png
+level: 1
+
+id: 2B669062-E707-4475-9161-03C1F660C099
+front-text: 
+back-text: Monaco
+front-resources: mc.png
+level: 1
+
+id: 53F81709-97D3-4695-B219-3DC49790FE0F
+front-text: 
+back-text: El Salvador
+front-resources: sv.png
+level: 1
+
+id: 25AF855A-E344-4840-8536-92AF9BD4BF1E
+front-text: 
+back-text: Central African Republic
+front-resources: cf.png
+level: 1
+
+
+id: 4F80A0EA-516E-4B0A-90FD-1B23D12CAF7D
+front-text: 
+back-text: Cape Verde
+front-resources: cv.png
+level: 1
+
+id: 0C2628CC-8BAF-4BDF-A857-E77EFDEE9041
+front-text: 
+back-text: Canada
+front-resources: ca.png
+level: 1
+
+id: 5A3C2B2E-DAEE-4C7C-BCA4-241699393293
+front-text: 
+back-text: Cameroon
+front-resources: cm.png
+level: 1
+
+id: CDB36DA4-0003-4F7F-8D1F-62415CDCEC97
+front-text: 
+back-text: Cambodia
+front-resources: kh.png
+level: 1
+
+id: 951FE470-0EA1-47F0-8865-83E3AE7A3047
+front-text: 
+back-text: Burundi
+front-resources: bi.png
+level: 1
+
+id: 6E50FE76-60E4-4BBB-9809-120FF21B3D5C
+front-text: 
+back-text: Burkina Faso
+front-resources: bf.png
+level: 1
+
+id: 221AAAC1-DE4B-4BAE-8B3D-2AD8C0A9EAA5
+front-text: 
+back-text: Bulgaria
+front-resources: bg.png
+level: 1
+
+id: 507B99C0-DCAD-4D19-ABD8-E5FE661107B3
+back-text: Afghanistan
+tags: asia
+front-resources: af.png
+level: 1
+
+id: 5FBAB0B7-DDC1-41A3-A28C-ECD02C8F165A
+back-text: Albania
+tags: europe
+front-resources: al.png
+level: 1
+
+id: E44BF3C8-4B75-40D5-91A7-EB26CF14866C
+back-text: Algeria
+tags: africa maghreb
+front-resources: dz.png
+level: 1
+
+id: 0540064B-C218-4630-BD22-29188E3615C3
+back-text: Andorra
+tags: europe
+front-resources: ad.png
+level: 1
+
+id: FE1853F9-F8F4-4943-AD32-3E72DBE8C2DE
+back-text: Angola
+tags: europe
+front-resources: ao.png
+level: 1
+
+id: 44227405-1143-47AF-B2D4-BB452042C9DC
+back-text: Antigua and Barbuda
+tags: caribic
+front-resources: ag.png
+level: 1
+
+id: 80011925-D200-4BC6-9311-616579D5A948
+back-text: Argentina
+tags: latinAmerica
+front-resources: ar.png
+level: 1
+
+id: 3921C4AF-507C-4DD5-A484-1E2F7EE50CC4
+back-text: Armenia
+tags: europe
+front-resources: am.png
+level: 1
+
+id: 9ED2391C-AA8E-456A-83F7-8669F3E819D6
+back-text: Australia
+tags: oceania
+front-resources: au.png
+level: 1
+
+id: 85183107-E3B9-45A0-BE4B-D1C595A774F8
+back-text: Austria
+tags: europe
+front-resources: at.png
+level: 1
+
+id: 420EE575-9A3A-4547-8A9D-DFDE4FFD6808
+back-text: Azerbaijan
+tags: europe
+front-resources: az.png
+level: 1
+
+id: D10E1F62-E3A0-48E7-B525-42FE8C0A78FC
+back-text: Bahamas
+tags: caribic
+front-resources: bs.png
+level: 1
+
+id: 114CC625-4175-4394-8540-F91AA5161F87
+back-text: Bahrain
+tags: arabia
+front-resources: bh.png
+level: 1
+
+id: C2449F85-48F7-40CD-94F4-4292D5586201
+back-text: Bangladesh
+tags: asia
+front-resources: bd.png
+level: 1
+
+id: C0A1FB03-791C-4884-A451-890F27BCAB06
+back-text: Barbados
+tags: caribic
+front-resources: bb.png
+level: 1
+
+id: 6D111D19-3217-468A-BA75-80DF393A64F5
+back-text: Belarus
+tags: europe
+front-resources: by.png
+level: 1
+
+id: 27000B74-B369-46B1-8900-EB9195EB7124
+back-text: Belgium
+tags: europe benelux
+front-resources: be.png
+level: 1
+
+id: 25076ABA-9538-4F10-8823-E890C3720615
+back-text: Belize
+tags: centralAmerica
+front-resources: bz.png
+level: 1
+
+id: EEF7F76D-D2EF-4956-8567-5D7249FB03F6
+back-text: Benin
+tags: africa
+front-resources: bj.png
+level: 1
+
+id: 3839577D-0D84-405F-90D6-CE0EEB94C30D
+back-text: Bhutan
+front-resources: bt.png
+tags: asia
+level: 1
+
+id: D6F3D923-9EF5-4532-ABA7-2CA3BA4E6880
+back-text: Bolivia
+tags: latinAmerica
+front-resources: bo.png
+level: 1
+
+id: B0EDFF0A-6B20-4E26-B307-469051F108C2
+back-text: Bosnia and Herzegovina
+front-resources: ba.png
+tags: europe,balcans
+level: 1
+
+id: 5BB5FFC7-4337-417C-9C5D-35F55C2A3EB5
+back-text: Botswana
+front-resources: bw.png
+tags: africa
+level: 1
+
+id: 8A335462-B48A-447F-8DC6-2425CF30422D
+back-text: Brazil
+tags: latinAmerica
+front-resources: br.png
+level: 1
+
+id: DB89F957-ACDC-4506-84C1-307175A5425B
+back-text: Brunei
+tags: asia
+front-resources: bn.png
+level: 1
